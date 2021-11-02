@@ -4,7 +4,7 @@
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/fabrizio-cafolla)
 [![Medium Badge](https://img.shields.io/badge/-Medium-000?style=flat-square&logo=Medium&logoColor=white)](https://fabrizio-cafolla.medium.com/)
-[![Stack Overflow](https://img.shields.io/badge/-Gmail-fff?style=flat-square&logo=Stackoverflow)](https://stackoverflow.com/users/17202399/fabrizio-cafolla)
+[![Stack Overflow](https://img.shields.io/badge/-StackOverflow-fff?style=flat-square&logo=Stackoverflow)](https://stackoverflow.com/users/17202399/fabrizio-cafolla)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:developer@fabriziocafolla.com)](mailto:developer@fabriziocafolla)
 
 
