@@ -3,34 +3,31 @@
 ---
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/fabrizio-cafolla)
+[![Hashnode Badge](https://img.shields.io/badge/-Hashnode-green?style=flat-square&logo=Hashnode&logoColor=white)](https://fabriziocafolla.com/)
 [![Medium Badge](https://img.shields.io/badge/-Medium-000?style=flat-square&logo=Medium&logoColor=white)](https://fabrizio-cafolla.medium.com/)
-[![Stack Overflow](https://img.shields.io/badge/-StackOverflow-fff?style=flat-square&logo=Stackoverflow)](https://stackoverflow.com/users/17202399/fabrizio-cafolla)
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:developer@fabriziocafolla.com)](mailto:developer@fabriziocafolla)
-
 
 #### Languages
 
 ![Python](https://img.shields.io/badge/-Python-fff?&logo=python)
+![Typescript](https://img.shields.io/badge/-Typescript-fff?&logo=Typescript)
 ![Shell](https://img.shields.io/badge/-Shell-fff?&logo=shell&logoColor=007ACC)
-![PHP](https://img.shields.io/badge/-PHP-fff?&logo=PHP)
 
 #### Technologies
 
-![AWS](https://img.shields.io/badge/-AWS-fff?&logo=Amazon-AWS&logoColor=232F3E)
-![Kubernetes](https://img.shields.io/badge/-Kubernetes-fff?&logo=Kubernetes)
-![Docker](https://img.shields.io/badge/-Docker-fff?&logo=Docker)
-
-![Open Source](https://img.shields.io/badge/-Open%20Source-fff?style=flat&logo=open-source-Initiative)
-
-![Git](https://img.shields.io/badge/-Git-fff?style=flat&logo=git)
+![AWS](https://img.shields.io/badge/-AWS-000?&logo=Amazon-AWS&logoColor=232F3E) ![Kubernetes](https://img.shields.io/badge/-Kubernetes-000?&logo=Kubernetes) ![Docker](https://img.shields.io/badge/-Docker-000?&logo=Docker) ![GitHub](https://img.shields.io/badge/-GitHub-000?style=flat&logo=GitHub)
 
 
 #### Projects
 
 [![Italia Opensource](https://img.shields.io/badge/Italia%20Opensource-organization-brightgreen?logo=github)](https://github.com/italia-opensource)
+
 [![Lumen Microservices](https://img.shields.io/badge/Lumen%20Microservices-repository-blue?logo=github)](https://github.com/FabrizioCafolla/lumen-microservice)
-[![Aziona CLI for CI/CD](https://img.shields.io/badge/Aziona%20CLI-repository-orange?logo=github)](https://github.com/azionaventures/aziona-cli)
-[![Gits](https://img.shields.io/badge/Gits-scripts-yellow?logo=github)](https://gist.github.com/FabrizioCafolla)
+
+[![Openai Chatgpt Opentranslator](https://img.shields.io/badge/Openai%20Chatgpt%20Opentranslator-repository-blue?logo=github)](https://github.com/FabrizioCafolla/openai-chatgpt-opentranslator)
+
+[![Neulabs CDK Constructs](https://img.shields.io/badge/Neulabs%20CDK%20Constructs-repository-orange?logo=github)](https://github.com/neulabscom/neulabs-cdk-constructs)
+
+[![Github Actions Analytics](https://img.shields.io/badge/Github%20Actions%20Analytics-repository-orange?logo=github)](https://github.com/neulabscom/github-actions-analytics)
 
 #### Support
 
