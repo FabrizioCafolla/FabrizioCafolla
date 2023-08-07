@@ -36,3 +36,5 @@
   
 <br><img height="137.3px" src="https://github-readme-stats.vercel.app/api?username=FabrizioCafolla&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=000&icon_color=000&theme=graywhite" />
 <img height="137.3px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FabrizioCafolla&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=7&exclude_repo=comp426&text_color=000&icon_color=ffftheme=graywhite" />
+
+[![roadmap.sh](https://api.roadmap.sh/v1-badge/wide/64d0c6b00d755ccbebe6b5c5?variant=dark)](https://roadmap.sh)
