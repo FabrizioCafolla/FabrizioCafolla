@@ -1,4 +1,4 @@
-## Hi, I'm <a href="https://www.linkedin.com/in/fabrizio-cafolla/">Fabrizio Cafolla</a> - DevOps Engineer
+## Hi, I'm <a href="https://www.linkedin.com/in/fabrizio-cafolla/">Fabrizio Cafolla</a> - DevOps & Cloud Engineer
 
 ---
 
