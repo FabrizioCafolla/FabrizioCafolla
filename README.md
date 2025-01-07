@@ -21,7 +21,7 @@ I am also the Community Manager of Latina in Tech, a community created to bring 
 
 ---
 
-#### My favourite Languages
+#### My favorite Languages
 
 ![Python](https://img.shields.io/badge/-Python-fff?&logo=python)
 ![Typescript](https://img.shields.io/badge/-Typescript-fff?&logo=Typescript)
