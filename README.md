@@ -26,9 +26,9 @@ Outside of work, I love to travel whenever I get the chance. In recent years, Iâ
 
 #### Projects
 
-[![European Opensource](https://img.shields.io/badge/Italia%20Opensource-organization-brightgreen?logo=github)](https://github.com/european-opensource)
+[![European Opensource](https://img.shields.io/badge/European%20OpenSource-organization-brightgreen?logo=github)](https://github.com/european-opensource)
 
-[![Italia Opensource](https://img.shields.io/badge/Italia%20Opensource-organization-brightgreen?logo=github)](https://github.com/italia-opensource)
+[![Italia Opensource](https://img.shields.io/badge/Italia%20OpenSource-organization-brightgreen?logo=github)](https://github.com/italia-opensource)
 
 [![Latina In Tech](https://img.shields.io/badge/Latina%20in%20Tech-organization-blue?logo=github)](https://github.com/latina-in-tech)
 
